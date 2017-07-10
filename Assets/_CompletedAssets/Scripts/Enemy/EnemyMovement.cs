@@ -33,7 +33,7 @@ namespace CompleteProject
             else
             {
                 // ... disable the nav mesh agent.
-                nav.enabled = false;
+               nav.enabled = false;
             }
         }
     }
